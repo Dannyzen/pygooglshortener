@@ -1,6 +1,6 @@
 This lets me obfuscate urls and track them with goo.gl through my terminal because... workflow.
 
-usage: fill out `client_secrets.json` with the appropriate keys and secrets (note: might want to create the app as an "other" type in gconsole.)
+usage: fill out `client_secrets.json` with the appropriate keys and secrets (note: might want to create the app as an "other" type in gconsole ... docs: https://developers.google.com/url-shortener/v1/getting_started#AboutAuthorization)
 
 run: `python urlshortener.py --noauth_local_webserver` 
 
